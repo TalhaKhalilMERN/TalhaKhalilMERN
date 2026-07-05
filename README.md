@@ -10,7 +10,7 @@ Frontend Developer with <b>1+ year of professional experience</b> building scala
 
 <p>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://talha-portfolio-iota.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
