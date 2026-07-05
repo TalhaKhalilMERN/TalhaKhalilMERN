@@ -146,16 +146,6 @@ Funding management dashboard built with React.js and Supabase including authenti
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TalhaKhalilMERN&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
 # 🎯 2026 Goals
 
 - 🚀 Build AutoLog into a production SaaS
@@ -170,7 +160,7 @@ Funding management dashboard built with React.js and Supabase including authenti
 
 <p align="center">
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://talha-portfolio-iota.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
 </a>
 
