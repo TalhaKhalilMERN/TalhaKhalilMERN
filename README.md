@@ -1,118 +1,198 @@
---------------------------------------------------
-👋 Header
---------------------------------------------------
+<div align="center">
 
-Hi, I'm Talha Khalil 👋
+# Hi 👋 I'm Talha Khalil
 
-Frontend Developer from Pakistan 🇵🇰
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+%7C+Next.js+%7C+TypeScript;Building+Production-Ready+Web+Applications;Currently+Building+AutoLog+🚗" />
 
-1+ year of professional experience building
-production-grade web applications using
-React.js, Next.js and TypeScript.
+<p>
+Frontend Developer with <b>1+ year of professional experience</b> building scalable web applications using React.js, Next.js, TypeScript and modern frontend technologies.
+</p>
 
-Portfolio Button
-LinkedIn Button
-Email Button
+<p>
 
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
---------------------------------------------------
-About Me
---------------------------------------------------
+<a href="https://www.linkedin.com/in/talha-khalil-9415b02a4">
+<img src="https://img.shields.io/badge/LinkedIn-Talha_Khalil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-💼 Former Frontend Developer @ NextPak Agile Solutions
+<a href="mailto:talhakhalil974@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🎓 BS Computer Science
+</p>
 
+<img src="https://komarev.com/ghpvc/?username=TalhaKhalilMERN&style=for-the-badge&color=3B82F6"/>
 
---------------------------------------------------
-Tech Stack
---------------------------------------------------
+</div>
 
-React
-Next.js
-TypeScript
-JavaScript
-Redux
-Tailwind
-Firebase
-Supabase
-Node.js
-Express
-Git
-GitHub
-Stripe
-REST APIs
-Postman
+---
 
-⚛ React.js
-▲ Next.js
-📘 TypeScript
-🔥 Firebase
-⚡ Supabase
+# 👨‍💻 About Me
 
-🌱 Currently building:
-AutoLog - Car Maintenance Tracker
+- 💼 Former Frontend Developer at **NextPak Agile Solutions**
+- 🎓 BS Computer Science — Institute of Space & Technology (IST)
+- 🌍 Based in Rawalpindi, Pakistan
+- 🚗 Currently building **AutoLog**
+- 💡 Passionate about building scalable web applications
+- 🤖 Enjoy integrating AI into development workflows
+- 🌱 Continuously improving TypeScript and Next.js expertise
+- 🎯 Looking for Frontend Developer opportunities
 
-🎯 Looking for:
-Frontend Developer opportunities
+---
 
+# 🚀 Tech Stack
 
---------------------------------------------------
-GitHub Stats
---------------------------------------------------
+### Frontend
 
-Stats Card
+<p>
 
-Contribution Streak
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css"/>
 
-Top Languages
+</p>
 
-Contribution Graph
+### Backend & Database
 
---------------------------------------------------
-Featured Projects
---------------------------------------------------
+<p>
 
-🚗 AutoLog
-(Car Maintenance Tracker)
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase"/>
 
-⭐ NextPOS
+</p>
 
-🏠 WAIS Property
+### Tools
 
-💰 Funding Platform
+<p>
 
---------------------------------------------------
-Current Focus
---------------------------------------------------
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
 
-🔹 Building production-grade React applications
+</p>
 
-🔹 Learning AI integrations
+---
 
-🔹 Improving TypeScript
+# 🚧 Currently Building
 
-🔹 Open Source
-
-🚧 Currently Building
-
-AutoLog
+## 🚗 AutoLog
 
 A modern car maintenance platform built with
 
-• Next.js
-• TypeScript
-• Supabase
-• Tailwind CSS
+- Next.js
+- TypeScript
+- Supabase
+- Tailwind CSS
 
-Features
+### Planned Features
 
-✔ Service Records
+- ✅ Service History
+- ✅ Fuel Tracking
+- ✅ Expense Management
+- ✅ Vehicle Analytics
+- ✅ Reminder System
+- ✅ AI Maintenance Assistant
+- ✅ Multi Vehicle Support
+- ✅ Dashboard & Reports
 
-✔ Expense Tracking
+---
 
-✔ Fuel History
+# ⭐ Featured Projects
 
-✔ Analytics
+## 🚗 NextPOS
 
-✔ AI-powered Maintenance Assistant (Coming Soon)
+Production POS solution with FBR-compliant billing, inventory management, restaurant workflows and modern frontend architecture.
+
+🔗 https://next-pos-beta.web.app/
+
+---
+
+## 🏠 WAIS Property
+
+Modern property management platform built with React.js and Firebase featuring real-time property management workflows.
+
+🔗 https://wais-property.web.app/
+
+---
+
+## 💰 Funding Platform
+
+Funding management dashboard built with React.js and Supabase including authentication, dashboards and responsive UI.
+
+🔗 https://funding-platform.web.app/
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TalhaKhalilMERN&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaKhalilMERN&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=TalhaKhalilMERN&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TalhaKhalilMERN&theme=tokyo-night&hide_border=true"/>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TalhaKhalilMERN&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build AutoLog into a production SaaS
+- ⚡ Master TypeScript
+- 📚 Contribute to Open Source
+- 🤖 Build AI-powered web applications
+- 🌍 Land a remote Frontend Engineer role
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://www.linkedin.com/in/talha-khalil-9415b02a4">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:talhakhalil974@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building software that solves real-world problems."*
+
+</div>
