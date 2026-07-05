@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Talha Khalil
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+%7C+Next.js+%7C+TypeScript;Building+Production-Ready+Web+Applications;Currently+Building+AutoLog+🚗" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+%7C+Next.js+%7C+TypeScript;Building+Production-Ready+Web+Applications;Currently+Building+AutoLog" />
 
 <p>
 Frontend Developer with <b>1+ year of professional experience</b> building scalable web applications using React.js, Next.js, TypeScript and modern frontend technologies.
