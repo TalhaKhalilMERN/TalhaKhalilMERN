@@ -23,9 +23,6 @@ Frontend Developer with <b>1+ year of professional experience</b> building scala
 </a>
 
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=TalhaKhalilMERN&style=for-the-badge&color=3B82F6"/>
-
 </div>
 
 ---
