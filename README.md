@@ -122,7 +122,7 @@ Funding management dashboard built with React.js and Supabase including authenti
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TalhaKhalilMERN&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-lime-iota-85.vercel.app/api?username=TalhaKhalilMERN&show_icons=true&theme=tokyonight"/>
 
 
 </div>
