@@ -11,11 +11,11 @@ Frontend Developer with <b>1+ year of professional experience</b> building scala
 <p>
 
 <a href="https://talha-portfolio-iota.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/talha-khalil-9415b02a4">
-<img src="https://img.shields.io/badge/LinkedIn-Talha_Khalil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Talha%20Khalil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:talhakhalil974@gmail.com">
